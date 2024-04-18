@@ -1,7 +1,14 @@
 # Projeto: Landing Page Escola de Tecnologia
 
 ## Descrição:<br>
-O projeto consiste em uma Landing page criada para uma Escola de Tecnologia.<br>
+O projeto consiste em uma Landing page criada para uma Escola de Tecnologia.
+<br>
+
+
+<img width="50%" src="https://github.com/stheryalves/Landing-Page-Escola-Tech/assets/134507985/b6d6cab9-7ef9-42e9-aa35-b2063f2adc03">
+<br>
+
+<br>
 Utilizando as tecnologias:<br>
 * HTML<br>
 * CSS<br>
