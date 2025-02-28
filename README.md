@@ -4,8 +4,7 @@
 O projeto consiste em uma Landing page criada para uma Escola de Tecnologia.
 <br>
 
-
-<img width="50%" src="https://github.com/stheryalves/Landing-Page-Escola-Tech/assets/134507985/b6d6cab9-7ef9-42e9-aa35-b2063f2adc03">
+<img width="50%" src="https://github.com/user-attachments/assets/2716564c-3a8f-4682-a547-42248ecc7250">
 <br>
 
 <br>
